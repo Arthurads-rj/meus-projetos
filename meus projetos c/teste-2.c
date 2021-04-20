@@ -14,7 +14,7 @@ char senha1[15];
 
 int main(int argc, char *avgr[])
 
- { do
+ { do  //o comando Do fará o programa se repetir até que escolha a opção "2 - Nao" onde irá encerrar o loop
         {
 
             system("cls");
