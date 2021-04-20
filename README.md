@@ -26,3 +26,8 @@ Aqui estão projetos que desenvolvi ao longo do meu aprendizado com programaçã
 <ul>Cálculos</ul>
 <ul>Geração de Números Aleatórios</ul>
 <ul>Mudança de Imagem de acordo com uso da função</ul>
+<br>
+<h2>Noções e Aprendizados: MySQL</h2>
+<ul>Criar, Alterar e Excluir Database, Tables</ul>
+<ul>Consultas aos Dados</ul>
+<ul>Inserir, Alterar e Excluir Dados em Tabelas</ul>
