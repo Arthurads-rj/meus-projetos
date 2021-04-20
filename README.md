@@ -1,5 +1,5 @@
-# meus-projetos
-Aqui estão projetos que desenvolvi ao longo do meu aprendizado com programação
+# Meus Projetos
+Aqui estão projetos que desenvolvi ao longo do meu aprendizado com programação.
 
 <h2>Noções e aprendizados: Linguagem C</h2>
 <ul>Vetores e Matrizes</ul>
