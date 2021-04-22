@@ -41,3 +41,9 @@ Aqui estão projetos que desenvolvi ao longo do meu aprendizado com programaçã
 <li>Consultas aos Dados</li>
 <li>Inserir, Alterar e Excluir Dados em Tabelas</li>
 </ul>
+<h2>Noções e Aprendizados: Python</h2>
+<ul>
+<li>Uso de Bibliotecas</li>
+<li>Cálculos</li>
+<li>Funções Simples</li>
+</ul>
