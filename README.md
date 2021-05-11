@@ -43,7 +43,7 @@ Aqui estão projetos que desenvolvi ao longo do meu aprendizado com programaçã
 </ul>
 <h2>Noções e Aprendizados: Python</h2>
 <ul>
-<li>Uso de Bibliotecas</li>
+<li>Uso de Bibliotecas: Random, Time, Math</li>
 <li>Cálculos</li>
 <li>Funções Simples</li>
 </ul>
